@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "shadowextras:activated_nature_gem"
+    }
+  ],
+  "result": {
+    "item": "shadowextras:deactivated_nature_gem"
+  }
+}

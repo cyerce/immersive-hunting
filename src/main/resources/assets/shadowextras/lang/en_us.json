@@ -1,0 +1,25 @@
+{
+  "block.shadowextras.activated_desert_gem": "Activated Desert Gem",
+  "block.shadowextras.deactivated_desert_gem": "Deactivated Desert Gem",
+  "block.shadowextras.activated_snow_gem": "Activated Snow Gem",
+  "block.shadowextras.deactivated_snow_gem": "Deactivated Snow Gem",
+  "block.shadowextras.activated_ocean_gem": "Activated Ocean Gem",
+  "block.shadowextras.deactivated_ocean_gem": "Deactivated Ocean Gem",
+  "block.shadowextras.activated_nature_gem": "Activated Nature Gem",
+  "block.shadowextras.deactivated_nature_gem": "Deactivated Nature Gem",
+  "block.shadowextras.activated_shadow_gem": "Activated Shadow Gem",
+  "block.shadowextras.deactivated_shadow_gem": "Deactivated Shadow Gem",
+  "block.shadowextras.activated_nether_gem": "Activated Nether Gem",
+  "block.shadowextras.deactivated_nether_gem": "Deactivated Nether Gem",
+
+  "item.shadowextras.shadow_crown": "Shadow's Eye",
+  "item.shadowextras.desert_crown": "Desert's Eye",
+  "item.shadowextras.nether_crown": "Nether's Eye",
+  "item.shadowextras.snow_crown": "Blizzard's Eye",
+  "item.shadowextras.ocean_crown": "Hurricane's Eye",
+  "item.shadowextras.nature_crown": "Nature's Eye",
+
+  "item.shadowextras.shadow_halberd": "Shadow Halberd",
+
+  "creativetab.shadow_extras": "Shadow SMP Extras"
+}

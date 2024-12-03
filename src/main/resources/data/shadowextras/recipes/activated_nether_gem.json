@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "shadowextras:deactivated_nether_gem"
+    }
+  ],
+  "result": {
+    "item": "shadowextras:activated_nether_gem"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "shadowextras:activated_ocean_gem"
+    }
+  ],
+  "result": {
+    "item": "shadowextras:deactivated_ocean_gem"
+  }
+}

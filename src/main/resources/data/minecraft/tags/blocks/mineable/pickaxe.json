@@ -1,0 +1,17 @@
+{
+  "replace": false,
+  "values": [
+    "shadowextras:activated_desert_gem",
+    "shadowextras:activated_nether_gem",
+    "shadowextras:activated_ocean_gem",
+    "shadowextras:activated_nature_gem",
+    "shadowextras:activated_shadow_gem",
+    "shadowextras:activated_snow_gem",
+    "shadowextras:deactivated_desert_gem",
+    "shadowextras:deactivated_nether_gem",
+    "shadowextras:deactivated_ocean_gem",
+    "shadowextras:deactivated_nature_gem",
+    "shadowextras:deactivated_shadow_gem",
+    "shadowextras:deactivated_snow_gem"
+  ]
+}
